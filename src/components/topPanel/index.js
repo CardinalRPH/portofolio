@@ -72,7 +72,7 @@ function TopPanel({ topEl }) {
         <BubbleChat className="tri-left btm-left" ref={topEl.topimg2}>
           <h1>
             Im
-            {About.TitleJob}
+            {` ${About.TitleJob}`}
             {' '}
             at
           </h1>

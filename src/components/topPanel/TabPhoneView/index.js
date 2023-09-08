@@ -63,7 +63,7 @@ function TPVTopPanel() {
             <BubbleChat className="tri-center btm-center">
               <h1>
                 Im
-                {About.TitleJob}
+                {` ${About.TitleJob}`}
                 {' '}
                 at
               </h1>
